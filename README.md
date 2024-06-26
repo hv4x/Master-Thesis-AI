@@ -10,6 +10,7 @@ However, the high cost of these techniques limits their immediate application in
 clinical cancer classification analysis. The deployment of artificial intelligence (AI) in
 analysing microbiological tissues and detecting specific cancer tumours from pathology
 images is expanding rapidly and could offer a viable alternative or complement.
+
 This work investigates how AI can be used to better understand relationships among
 cell populations directly from H&E staining, bypassing the need for expensive spatial
 data technologies. Several convolutional neural networks (CNNs) based on ShuffleNet
@@ -29,6 +30,7 @@ cluster regions are predicted with ROC values over 90% on trained prototypes up
 to 50 epochs. Predictions are aggregated to patient level and linked to survival
 prognosis in a proof of concept. Models are low-capacity demanding, are easy to
 exchange, and can be installed on laptops in a clinical lab setting.
+
 To advance this work beyond research, models need to be upscaled and retrained
 with a larger volume and greater variability in patches. Pathology experts need to
 compare AI predictions with spatial data for new patient cases. This study confirms
