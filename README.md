@@ -33,3 +33,5 @@ To advance this work beyond research, models need to be upscaled and retrained
 with a larger volume and greater variability in patches. Pathology experts need to
 compare AI predictions with spatial data for new patient cases. This study confirms
 the potential to predict signature expressions and tumour zones directly from H&E.
+
+Access to full document: https://webwsp.aps.kuleuven.be/sap/bc/ui2/flp#zr_0292-display&/57760159
